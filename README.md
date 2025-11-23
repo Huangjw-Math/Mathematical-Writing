@@ -12,4 +12,8 @@ This repository contains my homework of mathematical writing.
 
 ## How to compile
 
-Run 'latexmk -pdf main.tex' in the repository root.
+Run 
+```sh
+latexmk -pdf main.tex
+``` 
+in the repository root.
