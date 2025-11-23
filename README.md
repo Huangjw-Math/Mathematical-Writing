@@ -12,7 +12,7 @@ This repository contains my homework of mathematical writing.
 
 ## How to compile
 
-We use [latexmk](https://ctan.org/pkg/latexmk) to compile the file.
+You can use [latexmk](https://ctan.org/pkg/latexmk) to compile the file locally.
 
 More specifically, run 
 ```sh
